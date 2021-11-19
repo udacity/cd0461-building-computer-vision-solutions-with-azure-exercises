@@ -1,6 +1,6 @@
 # Purpose of This Repo
 
-This repo is meant to be used to keep things organized during content development and act as the source of truth for all projects and exercises related to this course.
+This repo is meant to be used to keep things organized during content development and act as the source of truth for all demos and exercises related to this course.
 
 ## Folder Structure
 
@@ -14,7 +14,6 @@ lesson-1-hello
 lesson-2-world
 lesson-3-foo
 lesson-4-bar
-project
 ```
 
 Each `lesson` folder is named using the naming convention of `lesson-#-name-of-lesson`.
